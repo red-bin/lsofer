@@ -1,6 +1,6 @@
 # lsofer
 
-Similarly to `lsof -i`, this script returns processes' /proc data, where there is an open inet socket. 
+Similarly to `lsof -i`, this script returns processes' /proc data, whenever there is an open inet socket. 
 
 The code follows a very functional data model and is designed to run in a large and cluttered linux environment.
 
