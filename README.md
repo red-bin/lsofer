@@ -13,4 +13,4 @@ Info gathered:
   * cwd
 
 Todo:
-Restrict to one CPU to reduce latency.
+Restrict to one core to reduce latency.
